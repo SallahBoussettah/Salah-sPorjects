@@ -8,7 +8,7 @@ A comprehensive showcase of my portfolio projects and GitHub repositories.
 
 ### [Terminal Website](https://github.com/SallahBoussettah/terminal-website)
 
-![Terminal Website](https://raw.githubusercontent.com/SallahBoussettah/Salah-sPorjects/main/images/terminal-website.png.png)
+![Terminal Website](https://raw.githubusercontent.com/SallahBoussettah/Salah-sPorjects/main/images/terminal-website.png)
 
 **Live Demo**: [https://sallahboussettah.github.io/terminal-website/](https://sallahboussettah.github.io/terminal-website/)
 
